@@ -60,12 +60,7 @@ $card_with_weather = "
 </div>
 </div>
 </div>";
-
-// print_r($weather_info_decoded);
 print $card_with_weather;
-// print "Название города: $city_name";
-// print_r($weather_info_decoded->name)
-//<a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>
     }
 ?>
 <?php
